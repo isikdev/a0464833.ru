@@ -1,0 +1,120 @@
+@font-face {
+    font-family: 'Museo Sans Cyrl';
+    src: url('../fonts/fOwR2yXnrX4v.eot');
+    src: url('../fonts/fOwR2yXnrX4v.eot#iefix') format('embedded-opentype'),
+        url('../fonts/8OrPS8rU0wPz.woff2') format('woff2'),
+        url('../fonts/8jIzhlftTi0M.woff') format('woff'),
+        url('../fonts/N0RibydmNyNf.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Museo Sans Cyrl';
+    src: url('../fonts/IDXeRqUfuiYr.eot');
+    src: url('../fonts/IDXeRqUfuiYr.eot#iefix') format('embedded-opentype'),
+        url('../fonts/Og3BGRXX7ATJ.woff2') format('woff2'),
+        url('../fonts/OctsRgwVUzFQ.woff') format('woff'),
+        url('../fonts/8T7bbU1oEoAy.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Museo Sans Cyrl';
+    src: url('../fonts/XZRYRwUXY8Bw.eot');
+    src: url('../fonts/XZRYRwUXY8Bw.eot#iefix') format('embedded-opentype'),
+        url('../fonts/G1MiGS7xVwLb.woff2') format('woff2'),
+        url('../fonts/GvoRIS1VNvaR.woff') format('woff'),
+        url('../fonts/NwfZSrR5QL5d.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Museo Sans Cyrl';
+    src: url('../fonts/tM4NTXLEvvWa.eot');
+    src: url('../fonts/tM4NTXLEvvWa.eot#iefix') format('embedded-opentype'),
+        url('../fonts/UQFoht67cv4B.woff2') format('woff2'),
+        url('../fonts/1DrRJD6JIHt7.woff') format('woff'),
+        url('../fonts/98otRSjCRwq8.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Museo Sans Cyrl';
+    src: url('../fonts/ctqAtNQ9GCyc.eot');
+    src: url('../fonts/ctqAtNQ9GCyc.eot#iefix') format('embedded-opentype'),
+        url('../fonts/1sh9sdntgLgr.woff2') format('woff2'),
+        url('../fonts/knQ4IjqNgStn.woff') format('woff'),
+        url('../fonts/JwZAg5Ty8WvW.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Museo Sans Cyrl';
+    src: url('../fonts/BCc5E7ytMn5K.eot');
+    src: url('../fonts/BCc5E7ytMn5K.eot#iefix') format('embedded-opentype'),
+        url('../fonts/YGxcyRtVstC0.woff2') format('woff2'),
+        url('../fonts/vJyB3CYaBiVC.woff') format('woff'),
+        url('../fonts/TXcQ86qmFOm4.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Museo Sans Cyrl';
+    src: url('../fonts/ESTvuO9cGh1l.eot');
+    src: url('../fonts/ESTvuO9cGh1l.eot#iefix') format('embedded-opentype'),
+        url('../fonts/8UJlDNVT9P1c.woff2') format('woff2'),
+        url('../fonts/9k8obuIV0wjS.woff') format('woff'),
+        url('../fonts/aESFRbkPX2nQ.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Museo Sans Cyrl';
+    src: url('../fonts/FmTRgmnjYHhg.eot');
+    src: url('../fonts/FmTRgmnjYHhg.eot#iefix') format('embedded-opentype'),
+        url('../fonts/g1zRs9wGweOu.woff2') format('woff2'),
+        url('../fonts/tAV49oI6HcUM.woff') format('woff'),
+        url('../fonts/5lb55ydrE1MX.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Museo Sans Cyrl';
+    src: url('../fonts/lgOus5hc57af.eot');
+    src: url('../fonts/lgOus5hc57af.eot#iefix') format('embedded-opentype'),
+        url('../fonts/yuYbJakMHUB0.woff2') format('woff2'),
+        url('../fonts/FN9TQfd78g5Z.woff') format('woff'),
+        url('../fonts/rAUvhC6Tvrmi.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Museo Sans Cyrl';
+    src: url('../fonts/E9Eo1xaiONjy.eot');
+    src: url('../fonts/E9Eo1xaiONjy.eot#iefix') format('embedded-opentype'),
+        url('../fonts/Axecb727VNfn.woff2') format('woff2'),
+        url('../fonts/8sZtMMDn3Vbp.woff') format('woff'),
+        url('../fonts/sNdcSLzuNk1O.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+

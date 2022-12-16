@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="ru" class="h-100">
+<head>
+    <meta charset="UTF-8">
+    <meta name="seovolga" content="1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <title>Not Found (#404)</title>
+    <meta name="csrf-param" content="_csrf-frontend">
+<meta name="csrf-token" content="BoC2SuPQFWmegZDz8Yrkp2cnyoJn7McbGedprv_MG4NX4sETjKJiW8jy25adz93GLUGQtyWnjUkhiDuczqd09g==">
+
+<link href="../css/bootstrap-grid.css" rel="stylesheet">
+<link href="../css/font.css" rel="stylesheet">
+<link href="../css/styles.css" rel="stylesheet">
+<link href="../css/media.css" rel="stylesheet">
+<link href="../css/itc-slider.css" rel="stylesheet">    <link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192" href="android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link type="image/x-icon" href="../favicon.ico" rel="shortcut icon">
+    <link type="Image/x-icon" href="../favicon.ico" rel="icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="/favicon/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+	<script src="../js/bd.min.js"></script>
+</head>
+<body>
+    <header>
+        <div class="top-menu">
+            <div class="container">
+                <div class="inner">
+                    <div class="logo">
+                        <a href="/">
+                    
+                            <img src="preloader.png" data-src="/img/png/nslogo.png" alt="Национальная Служба Доставки и АйСиЭл" title="Национальная Служба Доставки и АйСиЭл">
+                        </a>
+                    </div>
+                    <ul class="location">
+                        <li>
+                            <svg class="icon" style="width:13px; height: 18px;">
+                                <use xlink:href="../fonts/sprites.svg#location"/>
+                            </svg>
+                            <span>г. Москва, Малый Николопесковский пер., 4</span>
+                        </li>
+                    </ul>
+                    <ul class="mail">
+                        <li>
+                            <a href="mailto:info@nsdelivery.ru">
+                                <svg class="icon" style="width:15px; height: 11px;">
+                                    <use xlink:href="../fonts/sprites.svg#mail"/>
+                                </svg>
+                                <span>info@nsdelivery.ru</span>
+                            </a>
+                        </li>
+                    </ul>
+                    <ul class="schedule">
+                        <li>
+                            <svg class="icon" style="width:12px; height: 13px;">
+                                <use xlink:href="../fonts/sprites.svg#clock"/>
+                            </svg>
+                            <span>Пн - Пт: 9:00 - 18:00</span>
+                        </li>
+                    </ul>
+                    <div class="phone">
+                        <a href="tel:78005005384">8-800-500-53-84</a>
+                    </div>
+                    <div class="controls">
+                        <button class="btn-modal" data-toggle="modal" data-target="#callback">
+                            Стать клиентом
+                        </button>
+                        <button id="burger"><i></i></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="menu">
+            <div class="menu-overlay"></div>
+            <div class="menu-wrap">
+                <div class="container">
+                    <div class="inner">
+                        <nav>
+                            <ul>
+                                <li class="dropdown">
+                                    <a href="#"><span>Услуги</span></a>
+                                    <ul class="dropdown-menu menu-services">
+                        			    <li><a href="/dostavka-dlya-internet-magazinov/">Доставка для интернет-магазина</a></li>
+                        			    <li><a href="/dostavka-dlya-restoranov-i-kafe/">Доставка для ресторанов и кафе</a></li>
+                                        <li><a href="/arenda-kurerov/">Аренда курьеров</a></li>
+                                        <li><a href="/autstaffing-kurerov/">Аутстаффинг курьеров</a></li>
+                                        <li><a href="/mezhdugorodnyaya-dostavka/">Междугородняя доставка</a></li>
+                        		    </ul>
+                                </li>
+                                <li>
+                                    <a href="/about-company/"><span>О компании</span></a>
+                                </li>
+                                <li>
+                                    <a href="/vacancy/"><span>Вакансии</span></a>
+                                </li>
+                                <li>
+                                    <a href="/payment/"><span>Оплата</span></a>
+                                </li>
+                                <li class="dropdown">
+                                    <a href="#"><span>Блог</span></a>
+                                    <ul class="dropdown-menu">
+                        			    <li><a href="/articles/">Статьи</a></li>
+                        			    <li><a href="/faq/">FAQ</a></li>
+                        		    </ul>
+                                </li>
+                                <li>
+                                    <a href="/reviews"><span>Отзывы</span></a>
+                                </li>
+                                <li>
+                                    <a href="/contacts"><span>Контакты</span></a>
+                                </li>
+                            </ul>
+                        </nav>
+                        <div class="other">
+                            <ul class="location">
+                                <li>
+                                    <svg class="icon" style="width:13px; height: 18px;">
+                                        <use xlink:href="../fonts/sprites.svg#location"/>
+                                    </svg>
+                                    <span>г. Москва, Малый Николопесковский пер., 4</span>
+                                </li>
+                            </ul>
+                            <ul class="mail">
+                                <li>
+                                    <a href="mailto:info@nsdelivery.ru">
+                                        <svg class="icon" style="width:15px; height: 11px;">
+                                            <use xlink:href="../fonts/sprites.svg#mail"/>
+                                        </svg>
+                                        <span>info@nsdelivery.ru</span>
+                                    </a>
+                                </li>
+                            </ul>
+                            <ul class="schedule">
+                                <li>
+                                    <svg class="icon" style="width:12px; height: 13px;">
+                                        <use xlink:href="../fonts/sprites.svg#clock"/>
+                                    </svg>
+                                    <span>Пн - Пт: 9:00 - 18:00</span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <main>
+        <div class="site-error">
+
+    <h1>Not Found (#404)</h1>
+
+    <div class="alert alert-danger">
+        Page not found.    </div>
+
+    <p>
+        The above error occurred while the Web server was processing your request.
+    </p>
+    <p>
+        Please contact us if you think this is a server error. Thank you.
+    </p>
+
+</div>
+        
+        <div class="modal fade" id="callback" tabindex="-1" role="dialog">
+			<div class="modal-dialog modal-dialog-centered" role="document">
+				<div class="modal-overlay" data-dismiss="modal"></div>
+				<div class="modal-content">
+					<div class="modal-body">
+						<form class="wpcf7-form" action="/process/" method="post" onsubmit="submitForm(event);">
+<input type="hidden" name="_csrf-frontend" value="BoC2SuPQFWmegZDz8Yrkp2cnyoJn7McbGedprv_MG4NX4sETjKJiW8jy25adz93GLUGQtyWnjUkhiDuczqd09g==">						<div class="form-wrap response">
+							<div class="modal-title">
+								Отправить заявку
+							</div>
+							<div class="subtitle">
+								Получите консультацию специалиста
+							</div>
+							<div class="form-body">
+								<div class="inputs">
+									<label class="form-input">
+										<svg class="icon" style="width: 14px; height: 14px;">
+											<use xlink:href="../fonts/sprites_1.svg#phone"/>
+										</svg>
+										<input type="tel" name="phone" class="int-tel" placeholder="Номер телефона" required>
+									</label>
+									<label class="form-input">
+										<svg class="icon" style="width: 16px; height: 12px;">
+											<use xlink:href="../fonts/sprites_1.svg#mail"/>
+										</svg>
+										<input type="email" name="email" placeholder="E-mail">
+									</label>
+									<div class="form-submit">
+										<button type="submit">Отправить</button>
+									</div>
+								</div>
+								<label class="policy">
+									<input type="checkbox" name="policy" required>
+									<span>Соглашаюсь с условиями обработки данных</span>
+								</label>
+							</div>
+						</div>
+						</form>					</div>
+				</div>
+			</div>
+		</div>
+    </main>
+    <footer>
+        <div class="container">
+            <div class="inner">
+                <div class="column-1">
+                    <div class="logo">
+                        <img src="preloader.png" data-src="/img/png/logo_white.png" alt="Национальная служба доставки" title="Национальная служба доставки">
+                    </div>
+                </div>
+                <ul class="column-2">
+                    <li><a href="#">Услуги</a></li>
+                    <li><a href="#">О компании</a></li>
+                    <li><a href="#">Клиентам</a></li>
+                    <li><a href="#">Тарифы</a></li>
+                    <li><a href="#">Рассчет стоимости</a></li>
+                </ul>
+                <ul class="column-3">
+                    <li><a href="#">Вакансии</a></li>
+                    <li><a href="#">Отзывы</a></li>
+                    <li><a href="#">Интеграция по API</a></li>
+                    <li><a href="#">Правила</a></li>
+                    <li><a href="#">FAQ</a></li>
+                </ul>
+                <ul class="column-4">
+                    <li><a href="#">Отслеживание</a></li>
+                    <li><a href="#">Юрлицам</a></li>
+                    <li><a href="#">Грузоперевозки</a></li>
+                    <li><a href="#">Стать курьером</a></li>
+                    <li><a href="#">Контакты</a></li>
+                </ul>
+                <div class="column-5">
+                    <button class="btn-modal" data-toggle="modal" data-target="#callback">
+                        Заказать звонок
+                    </button>
+                    <div class="phone">
+                        <a href="tel:78005005384">8-800-500-53-84</a>
+                    </div>
+                    <ul class="mail">
+                        <li>
+                            <a href="mailto:info@nsdelivery.ru" style="text-align: center;">
+                                <svg class="icon" style="width:17px; height: 13px;">
+                                    <use xlink:href="../fonts/sprites.svg#mail"/>
+                                </svg>
+                                <span>info@nsdelivery.ru</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/karta-saita/" style="text-align: center;"><span>Карта сайта</span></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="bottom">
+                <!--<ul>
+                    <li><a href="№">Ссылка</a></li>
+                    <li><a href="№">Ссылка</a></li>
+                    <li><a href="№">Ссылка</a></li>
+                </ul>-->
+                <span class="copyright">
+                	© 2007—2022 Официальный сайт компании «ООО Национальная служба доставки». Все права защищены.
+                </span>
+                <img src="preloader.png" data-src="/img/png/paymens.png" alt="Способы оплаты" title="Способы оплаты" class="payments">
+            </div>
+        </div>
+    </footer>
+    
+	<div class="loader">
+		<svg width="150" height="150" viewBox="0 0 38 38" xmlns="http://www.w3.org/2000/svg" stroke="#fff">
+		    <g fill="none" fill-rule="evenodd">
+		        <g transform="translate(1 1)" stroke-width="2">
+		            <circle stroke-opacity=".5" cx="18" cy="18" r="18"/>
+		            <path d="M36 18c0-9.94-8.06-18-18-18">
+		                <animatetransform attributeName="transform" type="rotate" from="0 18 18" to="360 18 18" dur="1s" repeatCount="indefinite"/>
+		            </path>
+		        </g>
+		    </g>
+		</svg>
+	</div>
+
+<script src="../js/jquery.js"></script>
+<script src="../js/yii.js"></script>
+<script src="../js/inputmask.js"></script>
+<script src="../js/main.js"></script>
+<script src="../js/itc-slider.js"></script></body>
+</html>

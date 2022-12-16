@@ -1,0 +1,976 @@
+@media (min-width: 1230px) {
+    .container {
+        max-width: 1230px;
+    }
+}
+@media (min-width: 992px) {
+    header .other {
+        display: none;
+    }
+}
+@media (max-width: 1900px) {
+    .seotext .plane, .services-1 .plane {
+        display: none;
+    }
+    .about-1, .services-1, .about-2, .spheres {
+        padding: 60px 0;
+    }
+    .seotext, .features, .partners, .order-form, .tasks {
+        padding: 48px 0 60px;
+    }
+    .seotext .column-1 {
+        padding-top: 0;
+    }
+    .seotext .column-2 .consultation {
+        margin-top: 35px;
+        padding-left: 24px;
+    }
+}
+@media (max-width: 1600px) {
+    .order-form::before {
+        width: 392px;
+        height: 220px;
+    }
+    .order-form::after {
+        width: 392px;
+        height: 266px;
+    }
+}
+@media (max-width: 1300px) {
+    .order-form::before {
+        width: 300px;
+        height: 169px;
+    }
+    .order-form::after {
+        width: 300px;
+        height: 206px;
+    }
+}
+@media (max-width: 1229px) {
+    .hero h1 {
+        font-size: 36px;
+    }
+    .about .column-2 .h2, .services-1 .h2, .spheres .top .h2, .seotext .column-1 .h2, .features .h2, .partners .h2, .tasks .h2 {
+        font-size: 32px;
+        margin-bottom: 30px;
+    }
+    .order-form .h2 {
+        font-size: 32px;
+        margin-bottom: 10px;
+    }
+    .services-1 .h2, .seotext .column-1 .h2 {
+        text-align: center;
+    }
+    .seotext .column-2 .order .h2 {
+        font-size: 28px;
+        margin-bottom: 20px;
+    }
+    .order-form .subtitle {
+        margin-bottom: 30px;
+    }
+}
+@media (max-width: 1200px) {
+    header .top-menu .inner {
+        grid-template-columns: 135px 100px 1fr 1fr 198px 179px;
+    }
+    .order-form::before, .order-form::after {
+        display: none;
+    }
+    .hero .right svg {
+        width: 600px;
+        height: 339px;
+    }
+    .hero .left {
+        padding-top: 48px;
+        padding-bottom: 60px;
+        position: relative;
+        z-index: 2;
+    }
+    .hero h1 {
+        margin-right: -75px;
+    }
+    .hero .btn-modal {
+        width: 260px;
+        height: 60px;
+    }
+    .hero .bottom li {
+        padding: 25px;
+    }
+    .hero .bottom li .desc {
+        font-size: 12px;
+    }
+    .about .column-2, .about-2 .column-2 {
+        padding: 0;
+    }
+    .about .column-2 p, .about-2 .column-2 p, .spheres .top p,
+    .spheres .columns .column-1 p, .spheres .columns .column-2 p,
+    .seotext .column-1 p, .seotext .column-2 .order p,
+    .features .desc .text {
+        font-size: 16px;
+        line-height: 1.4;
+        font-weight: 100;
+    }
+    .services-1 .inner {
+        grid-gap: 40px;
+    }
+    .services-1 .item-desc {
+        font-size: 13px;
+        line-height: 1.4;
+    }
+    .about-2 .column-1 img {
+        left: 0;
+    }
+    .about-2 .column-1 {
+        padding-right: 44px;
+    }
+    .spheres .top {
+        margin-bottom: 40px;
+    }
+    .spheres .top .jump {
+        height: 150px;
+    }
+    .spheres .columns .column-1 .title, .spheres .columns .column-2 .title {
+        font-size: 20px;
+    }
+    .spheres .columns .column-1 {
+        max-width: 50%;
+        margin-right: 40px;
+        padding: 30px;
+    }
+    .spheres .columns .column-2 {
+        padding: 49px 41px 54px 49px;
+        padding: 30px;
+    }
+    .spheres .columns .column-1 .btn-modal, .spheres .columns .column-2 .btn-modal {
+        width: 240px;
+        height: 60px;
+        font-size: 16px;
+    }
+    .features .desc .text {
+        color: rgba(51, 51, 51, 0.9);
+    }
+    .seotext .column-2 {
+        padding-left: 0;
+        padding-top: 0;
+    }
+    .seotext .column-1 {
+        padding-right: 40px;
+    }
+    .seotext .column-2 .order {
+        padding: 55px;
+    }
+    .seotext .column-2 .consultation .phone a {
+        font-size: 26px;
+    }
+    .seotext .column-2 .order .buttons {
+        position: relative;
+        z-index: 2;
+    }
+    .seotext .column-2 .order p {
+        margin-bottom: 30px;
+    }
+    .seotext .column-2 .order .buttons .btn-modal {
+        width: 240px;
+        flex: 0 0 240px;
+        height: 60px;
+        font-size: 16px;
+    }
+    .seotext .column-2 .order .buttons .btn-question {
+        font-size: 22px;
+        width: 60px;
+        flex: 0 0 60px;
+        height: 60px;
+    }
+    .seotext .column-2 .consultation .title {
+        font-size: 18px;
+        margin-bottom: 8px;
+    }
+    .seotext .column-2 .consultation .phone {
+        margin-bottom: 8px;
+    }
+    .seotext .column-2 .consultation .mail span {
+        font-size: 14px;
+    }
+    .seotext .column-1 p {
+        margin-bottom: 20px;
+    }
+    .services-1 .item-title {
+        font-size: 16px;
+    }
+    .services-1 .item-content {
+        padding: 25px;
+    }
+    .features .image img {
+        height: 120px;
+        object-fit: contain;
+    }
+    .features .desc .title {
+        font-size: 20px;
+        margin-bottom: 12px;
+    }
+    .features .inner {
+        grid-gap: 30px;
+    }
+    .features .item {
+        padding: 25px;
+    }
+    .city {
+        width: 1200px !important;
+        height: 185px !important;
+    }
+    .tasks .inner {
+        grid-gap: 90px 110px;
+        grid-gap: 60px;
+    }
+    .tasks .h2 {
+        max-width: 790px;
+    }
+    .tasks .title {
+        font-size: 20px;
+        line-height: 1.2;
+        margin-bottom: 15px;
+    }
+    .tasks .desc {
+        font-size: 16px;
+        line-height: 1.4;
+    }
+    .tasks .image {
+        width: 160px;
+        height: 160px;
+        margin-bottom: 25px;
+    }
+    .tasks .image svg {
+        width: 90px;
+        height: 90px;
+    }
+}
+@media (max-width: 991px) {
+    header .top-menu .inner {
+        grid-template-columns: 130px 1fr 190px 40px;
+        grid-template-areas: "logo location phone controls" "logo mail phone controls" "logo schedule phone controls";
+    }
+    header .top-menu .logo {
+        grid-area: logo;
+    }
+    header .top-menu .location {
+        grid-area: location;
+        align-items: flex-start;
+    }
+    header .top-menu .mail {
+        grid-area: mail;
+        align-items: flex-start;
+    }
+    header .top-menu .schedule {
+        grid-area: schedule;
+        align-items: flex-start;
+    }
+    header .top-menu .phone {
+        grid-area: phone;
+    }
+    header .top-menu .controls {
+        grid-area: controls;
+    }   
+    header .top-menu .inner {
+        padding: 15px 0;
+    }
+    #menu {
+        position: fixed;
+        overflow: hidden;
+        top: 0;
+        left: 0;
+        right: 0;
+        width: 100%;
+        height: 0;
+        opacity: 0;
+        transition: opacity 0.6s;
+        z-index: 30;
+    }
+    #menu.menu-opened {
+        opacity: 1;
+        bottom: 0;
+        height: 100%;
+    }
+    .menu-overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0,0,0,.3);
+        z-index: 0;
+    }
+    #menu .container, #menu .inner {
+        height: 100%;
+    }
+    #menu .inner {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    #menu nav {
+        flex: 1 1 auto;
+        width: 100%;
+    }
+    #menu .other {
+        padding-bottom: 22px; 
+    }
+    #menu .other li {
+        color: #fff;
+        margin-bottom: 8px;
+    }
+    #menu .other svg {
+        fill: #fff;
+        display: inline-block;
+        width: 18px !important;
+        margin-right: 8px;
+    }
+    .menu-wrap {
+        width: 290px;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        overflow: auto;
+        height: 100%;
+        position: absolute;
+        z-index: 2;
+        box-shadow: 0 0 20px rgba(0,0,0,.3);
+        padding-top: 25px;
+    }
+    header #menu nav ul {
+        flex-direction: column;
+        margin: 0 -15px;
+    }
+    header #menu nav ul li {
+        height: 45px;
+        width: 100%;
+        max-width: none !important;
+        text-align: center;
+    }
+    header #menu nav ul li a {
+        justify-content: center !important;
+    }
+    .hero .right svg {
+        width: 455px;
+        height: 257px;
+    }
+    .hero h1 {
+        font-size: 30px;
+        margin-right: -110px;
+    }
+    .hero p {
+        font-size: 16px;
+        line-height: 1.4;
+        margin-bottom: 30px;
+    }
+    header .top-menu .phone a {
+        font-size: 18px;
+    }
+    .hero .bottom li {
+        padding: 20px;
+        padding-right: 12px;
+    }
+    .hero .bottom li .desc {
+        font-size: 11px;
+    }
+    .hero .bottom li .title {
+        font-size: 14px;
+    }
+    .about .column-2 .h2, .services-1 .h2, .spheres .top .h2, .seotext .column-1 .h2, .features .h2, .partners .h2, .tasks .h2 {
+        font-size: 28px;
+        margin-bottom: 20px;
+    }
+    .about .column-2 p, .about-2 .column-2 p, .spheres .top p, .spheres .columns .column-1 p, .spheres .columns .column-2 p, .seotext .column-1 p, .seotext .column-2 .order p, .features .desc .text, .tasks .desc {
+        font-size: 14px;
+    }
+    .about-1, .services-1, .about-2, .spheres {
+        padding: 50px 0;
+    }
+    .services-1 .inner {
+        grid-gap: 20px;
+    }
+    .services-1 .item-image {
+        height: 165px;
+    }
+    .services-1 .item-content {
+        padding: 20px;
+    }
+    .services-1 .item-title {
+        font-size: 15px;
+    }
+    .services-1 .item-desc {
+        font-size: 12px;
+        line-height: 1.3;
+    }
+    .services-1 .item-showmore svg {
+        width: 30px !important;
+        height: 9px !important;
+    }
+    .services-1 .item-showmore span {
+        font-size: 13px;
+    }
+    .spheres .columns .column-1, .spheres .columns .column-2 {
+        padding: 20px;
+    }
+    .spheres .columns .column-1 .title::before {
+        font-size: 16px;
+    }
+    .spheres .columns .column-1 .title, .spheres .columns .column-2 .title {
+        font-size: 16px;
+        letter-spacing: 0;
+    }
+    .seotext, .features, .partners, .order-form {
+        padding: 40px 0 50px;
+    }
+    .spheres .columns .column-1 .btn-modal, .spheres .columns .column-2 .btn-modal {
+        width: 215px;
+        height: 48px;
+        font-size: 15px;
+    }
+    .seotext .column-2 .order .h2 {
+        font-size: 20px;
+    }
+    .seotext .column-2 .order {
+        padding: 30px;
+    }
+    .seotext .column-2 .order .buttons .btn-modal {
+        width: 215px;
+        flex: 0 0 215px;
+        height: 48px;
+    }
+    .seotext .column-2 .order .buttons .btn-question {
+        font-size: 20px;
+        width: 48px;
+        flex: 0 0 48px;
+        height: 48px;
+    }
+    .seotext .column-2 .order .icon {
+        width: 100px;
+        height: 120px;
+        bottom: -25px;
+        right: -36px;
+    }
+    .seotext .column-1 p:last-child {
+        margin-bottom: 0;
+    }
+    .seotext .column-2 .consultation {
+        padding-left: 0;
+    }
+    .seotext .column-2 .consultation .phone a {
+        font-size: 22px;
+    }
+    .features .item {
+        grid-template-columns: 140px 1fr;
+    }
+    .features .desc .title {
+        font-size: 18px;
+    }
+    .partners .item {
+        padding: 15px;
+    }
+    .partners .item img {
+        width: 100%;
+    }
+    .order-form .h2 {
+        font-size: 28px;
+    }
+    .order-form .subtitle {
+        font-size: 15px;
+        line-height: 1.4;
+    }
+    .order-form .controls .btn-phone,.order-form .controls .btn-modal {
+        width: 235px;
+        flex: 0 0 235px;
+        height: 55px;
+        font-size: 16px;
+    }
+    .tasks .title {
+        font-size: 16px;
+    }
+    .tasks .inner {
+        grid-gap: 40px;
+    }
+    .tasks .h2 {
+        text-align: center;
+    }
+    .tasks .item {
+        align-items: center;
+    }
+    .tasks .title, .tasks .desc {
+        text-align: center;
+    }
+    .tasks .image {
+        width: 125px;
+        height: 125px;
+    }
+    .tasks .image svg {
+        width: 80px;
+        height: 80px;
+    }
+    footer .column-1 .logo {
+	  padding: 0 10px;
+	}
+	footer .bottom span {
+	  padding-right: 15px;
+	}
+}
+@media (max-width: 768px) {
+    header .top-menu .phone a {
+        font-size: 17px;
+    }
+    header .top-menu .inner {
+        grid-template-columns: 125px 1fr 160px 40px;
+    }
+    .hero .inner {
+        grid-template-columns: 1fr;
+        grid-template-areas: "left" "right" "bottom";
+    }
+    .hero h1 {
+        font-size: 30px;
+        margin-right: -110px;
+        font-size: 26px;
+        margin-right: 0;
+        max-width: 400px;
+    }
+    .hero .right {
+        opacity: .2;
+    }
+    .hero .bottom ul {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .hero .bottom li:nth-child(1) {
+        border-bottom-left-radius: 0;
+        border-top-left-radius: 20px;
+    }
+    .hero .bottom li:nth-child(3) {
+        border-bottom-left-radius: 20px;
+    }
+    .hero .bottom li:nth-child(2) {
+        border-top-right-radius: 20px;
+    }
+    .hero .bottom li:nth-child(4) {
+        border-bottom-right-radius: 20px;
+        border-top-right-radius: 0;
+    }
+    .hero .bottom li svg {
+        grid-area: svg;
+        width: 25px;
+        height: 25px;
+    }
+    .hero .bottom li .title {
+        grid-area: title;
+    }
+    .hero .bottom li .desc {
+        grid-area: desc;
+    }
+    .hero .bottom li {
+        display: grid;
+        grid-template-columns: 25px 1fr;
+        grid-template-areas: "svg title" "desc desc";
+    }
+    .hero .bottom li svg {
+        margin-bottom: 10px;
+    }
+    .hero .bottom li .title {
+        margin-bottom: 0;
+        margin-top: 4px;
+        padding-left: 12px;
+    }
+    .hero .btn-modal {
+        width: 240px;
+        height: 50px;
+        font-size: 16px;
+    }
+    .hero .left {
+        padding-top: 30px;
+        padding-bottom: 35px;
+    }
+    .hero .right svg {
+        width: 430px;
+        height: 225px;
+    }
+    .about .column-1, .about .column-2 {
+        padding: 0 25px;
+        margin-bottom: 15px;
+    }
+    .about .inner {
+        grid-template-columns: 1fr;
+    }
+    .about .column-1 img, .about .column-2 img {
+        height: 160px;
+    }
+    .about .column-2 .h2, .services-1 .h2, .spheres .top .h2, .seotext .column-1 .h2, .features .h2, .partners .h2, .tasks .h2 {
+        font-size: 22px;
+        text-align: center;
+        max-width: none;
+        width: 100%;
+    }
+    .about-1, .services-1, .about-2, .spheres {
+        padding: 40px 0;
+    }
+    .services-1 .inner {
+        grid-template-columns: 1fr 1fr;
+    }
+    .about .column-2 p, .about-2 .column-2 p, .spheres .top p, .spheres .columns .column-1 p, .spheres .columns .column-2 p, .seotext .column-1 p, .seotext .column-2 .order p, .features .desc .text {
+        font-size: 13px;
+    }
+    .spheres .columns .column-1 {
+        margin-right: 20px;
+    }
+    .spheres .top p {
+        text-align: center;
+    }
+    .spheres .top {
+        padding-right: 190px;
+    }
+    .spheres .columns .column-1, .spheres .columns .column-2 {
+        padding: 15px;
+        border-radius: 20px;
+    }
+    .seotext .column-1 {
+        padding-right: 0;
+        padding-bottom: 30px;
+    }
+    .seotext .inner {
+        grid-template-columns: 1fr;
+    }
+    .features .image {
+        padding-right: 15px;
+    }
+    .features .item {
+        grid-template-columns: 110px 1fr;
+    }
+    .features .image {
+        align-items: flex-start;
+    }
+    .features .desc .title {
+        font-size: 16px;
+    }
+    .features .desc .text {
+        font-size: 12px;
+    }
+    .features .item {
+        padding: 18px;
+    }
+    .features .inner {
+        grid-gap: 15px;
+    }
+    .partners .inner {
+        flex-wrap: wrap;
+    }
+    .partners .item {
+        padding: 10px;
+        flex: 0 0 30%;
+    }
+    .order-form .controls .btn-phone {
+        margin-right: 20px;
+    }
+    .order-form .controls .btn-phone, .order-form .controls .btn-modal {
+        width: 220px;
+        flex: 0 0 220px;
+        height: 50px;
+        font-size: 15px;
+    }
+    .order-form .h2 {
+        font-size: 22px;
+    }
+    .order-form .subtitle {
+        margin-bottom: 20px;
+        padding-left: 0;
+        font-size: 14px;
+    }
+    .tasks .inner {
+        grid-gap: 30px;
+    }
+    .tasks .desc {
+        font-size: 12px;
+    }
+    .tasks .title {
+        font-size: 15px;
+    }
+}
+@media (max-width: 575px) {
+    header .top-menu .location,
+    header .top-menu .mail,
+    header .top-menu .schedule {
+        display: none;
+    }
+    header .top-menu .inner {
+        grid-template-columns: 125px 1fr 40px;
+        grid-template-areas: "logo phone controls";
+    }
+    .container {
+        max-width: 520px;
+    }
+    .spheres .columns {
+        flex-wrap: wrap;
+    }
+    .spheres .columns .column-1 {
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+    .spheres .columns .column-1, .spheres .columns .column-2 {
+        max-width: 100%;
+    }
+    .spheres .columns .column-1, .spheres .columns .column-2 {
+        max-width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+    }
+    .spheres .columns .column-1 .title, .spheres .columns .column-2 .title {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .spheres .columns .column-1 p, .spheres .columns .column-2 p {
+        margin-bottom: 20px;
+    }
+    .tasks .inner {
+        grid-template-columns: 1fr 1fr;
+    }
+    footer .bottom .copyright {
+	  padding: 0 0 15px;
+	  display: block;
+	  text-align: center;
+	}
+}
+
+@media (max-width: 520px) {
+    .container {
+        max-width: 480px;
+    }
+}
+
+@media (max-width: 480px) {
+    header .top-menu .inner {
+        grid-template-columns: 100px 1fr 40px;
+    }
+    header .top-menu .logo img {
+        width: 100%;
+    }
+    header .top-menu .logo {
+        margin-right: 15px;
+    }
+    header .top-menu .phone a {
+        font-size: 15px;
+    }
+    .container {
+        max-width: 420px;
+    }
+    .about-1, .services-1, .about-2, .spheres {
+        padding: 30px 0;
+    }
+    .about .column-2 p, .about-2 .column-2 p, .spheres .top p, .spheres .columns .column-1 p, .spheres .columns .column-2 p, .seotext .column-1 p, .seotext .column-2 .order p, .features .desc .text {
+        font-size: 12px;
+    }
+    .about .column-2 .h2, .services-1 .h2, .spheres .top .h2, .seotext .column-1 .h2, .features .h2, .partners .h2 {
+        font-size: 20px;
+    }
+    .hero h1 {
+        font-size: 26px;
+        font-size: 24px;
+    }
+    .hero .right svg {
+        height: 175px;
+    }
+    .about .column-1 img, .about .column-2 img {
+        height: 125px;
+    }
+    .services-1 .item-desc {
+        font-size: 11px;
+    }
+    .services-1 .inner {
+        grid-gap: 10px;
+    }
+    .services-1 .item-content {
+        padding: 15px;
+    }
+    .services-1 .item-image {
+        height: 140px;
+    }
+    .spheres .top {
+        padding-right: 120px;
+        margin-bottom: 20px;
+    }
+    .spheres .top .jump {
+        height: 140px;
+        width: 110px;
+    }
+    .features .desc .text {
+        font-size: 11px;
+    }
+    .order-form .h2 {
+        font-size: 18px;
+    }
+    .order-form .controls {
+        flex-wrap: wrap;
+    }
+    .seotext, .features, .partners, .order-form {
+        padding: 32px 0 44px;
+    }
+    .order-form .controls .btn-phone {
+        margin-right: 0;
+        margin-bottom: 15px;
+    }
+    .order-form .controls .btn-phone, .order-form .controls .btn-modal {
+        height: 42px;
+    }
+    .tasks .desc {
+        font-size: 11px;
+    }
+    .tasks .title {
+        font-size: 13px;
+    }
+    .tasks .image {
+        width: 80px;
+        height: 80px;
+        margin-bottom: 15px;
+    }
+    .tasks .image svg {
+        width: 60px;
+        height: 60px;
+    }
+    .tasks .inner {
+        grid-gap: 20px;
+    }
+}
+
+@media (max-width: 420px) {
+    .container {
+        max-width: 375px;
+    }
+    .features .image {
+        position: absolute;
+        right: -23px;
+        width: 90px;
+        height: 90px;
+        top: -43px;
+    }
+    .features .item {
+        grid-template-columns: 1fr;
+        position: relative;
+    }
+    .features .inner {
+        grid-gap: 25px;
+    }
+    .features .desc .title {
+        font-size: 14px;
+        width: 100%;
+        padding-right: 60px;
+    }
+    .hero .bottom li svg {
+        margin-bottom: 0;
+    }
+    .hero .bottom li .desc {
+        margin-top: 10px;
+    }
+    .hero .bottom li .title {
+        margin-top: 0;
+    }
+    .hero .bottom li {
+        padding: 12px;
+    }
+    .hero .bottom li .title {
+        font-size: 12px;
+    }
+    .hero .bottom li .desc {
+        font-size: 10px;
+        line-height: 1.3;
+    }
+    .hero h1 {
+        font-size: 21px;
+        line-height: 1.3;
+    }
+    .hero p {
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+    .services-1 .item-title {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 375px) {
+    .container {
+        max-width: 320px;
+    }
+    .spheres .top .jump {
+        height: 81px;
+        width: 65px;
+        top: -89px;
+    }
+    .spheres .top {
+        padding-right: 0;
+    }
+    .services-1 .item-content {
+        padding: 10px;
+    }
+    .services-1 .item-showmore span {
+        font-size: 12px;
+    }
+    .services-1 .item-showmore svg {
+        width: 24px !important;
+        height: 7px !important;
+    }
+    .services-1 .item-title {
+        font-size: 13px;
+    }
+    .services-1 .item-image {
+        height: 98px;
+    }
+    .services-1 .item {
+        border-radius: 15px;
+    }
+    .hero .bottom ul {
+        grid-template-columns: 1fr;
+    }
+    .hero .bottom li:nth-child(1) {
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+    }
+    .hero .bottom li:nth-child(2) {
+        border-top-right-radius: 0;
+    }
+    .hero .bottom li:nth-child(3) {
+        border-bottom-left-radius: 0;
+    }
+    .hero .bottom li:nth-child(4) {
+        border-bottom-left-radius: 20px;
+    }
+    .hero .bottom li .title {
+        position: relative;
+        top: 5px;
+    }
+    .hero .bottom li {
+        padding: 12px 18px;
+    }
+    .hero h1 {
+        font-size: 19px;
+        line-height: 1.3;
+    }
+    .seotext .column-2 .order .buttons .btn-modal {
+        width: 160px;
+        flex: 0 0 160px;
+        height: 40px;
+        font-size: 14px;
+        margin-right: 10px;
+    }
+    .seotext .column-2 .order .buttons .btn-question {
+        font-size: 18px;
+        width: 40px;
+        flex: 0 0 40px;
+        height: 40px;
+    }
+    .seotext .column-2 .order .h2 {
+        font-size: 16px;
+    }
+    .seotext .column-2 .order {
+        padding: 20px;
+        border-radius: 20px;
+    }
+    .partners .item {
+        padding: 10px;
+        flex: 0 0 42%;
+    }
+}
